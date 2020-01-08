@@ -15,8 +15,7 @@
 
 1. Over-engineer Architecture (禁止過度設計;適當的使用Design Pattern)
 2. Premature Optimization (大型專案絕對禁止)
-3. Unit Testing (是否有Unit Test或者Example)
-  - Example歸類為這一類.
+3. Unit Testing (是否有Unit Test或者Example;Example歸類為這一類.)
 4. 適當的使用關鍵字, TODO, NOTE, SEE, ATTENTION, etc.
 
 Code Coverage主要就是建立在這些基礎之上. Code Coverage越好的專案, 
