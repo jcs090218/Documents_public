@@ -85,10 +85,18 @@ news.active = true;                                 // news被設成true了!
 `TypeScript`/`JavaScript`可能沒這問題. 因為Browser的DevTool和VSCode越來越
 強了... 不過一樣禁止比較好.
 
-```
-// 如果這裡有錯誤, 
+```ts
+// 如果這裡有錯誤,
 // 我們不會知道node, getChildByName, active, 哪個是null.
 node.getChildByName("new_s").active = true;
+```
+
+或這段
+
+```ts
+// 如果這裡有錯誤,
+// 我們不會知道panel, getChildByName(兩個), idx, 哪個是null.
+panel.getChildByName("History").getChildByName("h_" + idx);
 ```
 
 ### 不超過80個字元
