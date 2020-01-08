@@ -102,3 +102,11 @@ panel.getChildByName("History").getChildByName("h_" + idx);
 ### 不超過80個字元
 
 這個有越來越短的趨勢, 上網查查看吧! :joy:
+
+### 單一類單一原則.
+
+有些奇怪的地方.
+
+`xxxCtrl.getpic` 容易造成不理解. 為什麼`xxxCtrl`可以拿到圖片.
+
+應該改成`Util.getpic`或`ImageLoader.getpic`.
