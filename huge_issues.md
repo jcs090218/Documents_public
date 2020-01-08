@@ -21,7 +21,7 @@
 
 懶的話, 可以使用Linter! :P
 
-可以參考我寫的, [Code Coverage 維護性](./).
+可以參考我寫的, [Code Coverage 維護性](./code_coverage.md).
 
 ### 過度的使用Lambda
 
