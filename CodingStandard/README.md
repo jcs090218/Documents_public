@@ -40,7 +40,7 @@
 
 ## 個語言規範
 
-* [Unity C#](https://github.com/gamebarley-org/Documents/blob/master/coding/CodingStandard/unity_csharp.md)
-* [C#](https://github.com/gamebarley-org/Documents/blob/master/coding/CodingStandard/csharp.md)
-* [TypeScript](https://github.com/gamebarley-org/Documents/blob/master/coding/CodingStandard/typescript.md)
-* [JavaScript](https://github.com/gamebarley-org/Documents/blob/master/coding/CodingStandard/javascript.md)
+* [Unity C#](.unity_csharp.md)
+* [C#](./csharp.md)
+* [TypeScript](./typescript.md)
+* [JavaScript](./javascript.md)
