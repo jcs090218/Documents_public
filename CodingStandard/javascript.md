@@ -1,7 +1,6 @@
 # JavaScript
 > JavaScript的程式規範
 
-
 * 創檔者: Shen, Jen-Chieh
 * 註解: 這裡寫著JavaScript的一些程式規範.
 
