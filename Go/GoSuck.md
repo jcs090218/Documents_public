@@ -1,4 +1,4 @@
-# Go Suck
+# Go Suck (Go很爛)
 
 This is the document if you FEEL hate from Go. Welcome you to complain about
 this here.
