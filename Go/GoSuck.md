@@ -9,7 +9,7 @@ Most of the languages use `/*` for their docstring yet Go use `//`.
 
 大部分的語言都使用`/*`當做`doc`, 不過Go反其道而行使用`//`. (可惡)
 
-Why not this?
+Why not this? 為什不用這個?
 
 ```go
 /**
@@ -20,7 +20,7 @@ Why not this?
  */
 ```
 
-Use this?
+Use this? 用這個?
 
 ```go
 // Description over here. 
