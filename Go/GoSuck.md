@@ -10,6 +10,8 @@ this here.
 These links make me happy because someone have the hate from Go. That makes me
 not along fighting against Go.
 
+這些連結讓我開心, 因為有人跟我一樣討厭Go. 這不讓我覺得只有我一個人在抗拒Go.
+
 * [Golang Sucks](http://www.golang.sucks/)
   - [Golang is Trash](http://dtrace.org/blogs/wesolows/2014/12/29/golang-is-trash/)
   - [The Go language is a mess.](http://valuedrivenit.blogspot.com/2015/12/to-go-language-is-mess.html)
