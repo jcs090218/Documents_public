@@ -5,6 +5,16 @@ this here.
 
 這是個文檔當你對Go感受到恨意的時候, 歡迎你對這個文檔發洩一下你的情緒.
 
+## Hate Links
+
+These links make me happy because someone have the hate from Go. That makes me
+not along fighting against Go.
+
+* [Golang Sucks](http://www.golang.sucks/)
+  - [Golang is Trash](http://dtrace.org/blogs/wesolows/2014/12/29/golang-is-trash/)
+  - [The Go language is a mess.](http://valuedrivenit.blogspot.com/2015/12/to-go-language-is-mess.html)
+  - [Go is a poorly designed language](https://byrd.im/go-is-poor/)
+
 ## 1. Docstring
 
 Most of the languages use `/*` for their docstring yet Go use `//`.
