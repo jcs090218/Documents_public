@@ -1,7 +1,9 @@
 # Go Suck
 
-This is the document if you feel hate from Go. Welcome you to complain about
+This is the document if you FEEL hate from Go. Welcome you to complain about
 this here.
+
+這是個文檔當你對Go感受到恨意的時候, 歡迎你對這個文檔發洩一下你的情緒.
 
 ## 1. Docstring
 
