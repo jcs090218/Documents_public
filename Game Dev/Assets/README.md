@@ -2,7 +2,7 @@
 
 List of stores where you can buy art assets.
 
-## 🎨 Overal
+## 🏪 Overal
 
 These stores sell all kind of assets.
 
@@ -12,7 +12,7 @@ These stores sell all kind of assets.
 - https://devassets.com/
 - https://itch.io/
 
-## 2D
+## 🎨 2D
 
 Stores for 2D art assets.
 
