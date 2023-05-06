@@ -10,3 +10,9 @@ Here are the main components that will make scene much nicer in your game.
 - [Lighting]()
 - [SkyBox]()
 - [Fog]()
+
+## Shaders
+
+List of awesome shaders that make your games even better!
+
+- [Triplanar](https://www.youtube.com/watch?v=eZqd68YaY2U&ab_channel=Unity)
