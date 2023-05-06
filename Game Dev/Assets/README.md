@@ -18,6 +18,10 @@ Stores for 2D art assets.
 
 - https://craftpix.net/
 
+## 3D Animation
+
+- https://www.mixamo.com/#/
+
 ## 🎼 Sound
 
 Stores specific to music and SFX.
