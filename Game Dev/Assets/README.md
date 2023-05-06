@@ -18,7 +18,7 @@ Stores for 2D art assets.
 
 - https://craftpix.net/
 
-## 3D Animation
+## 🏃 3D Animation
 
 - https://www.mixamo.com/#/
 
