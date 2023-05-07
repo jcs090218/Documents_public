@@ -23,3 +23,4 @@ List of awesome shaders that make your games even better!
 List of particle effect to make your games stands out!
 
 - [Cartoon Wind Effect](https://www.youtube.com/watch?v=Jj8UHGe5Aps&ab_channel=Hennejoe)
+- [Godray](https://www.youtube.com/watch?v=kbsd6askiCY&ab_channel=SpeedTutor)
