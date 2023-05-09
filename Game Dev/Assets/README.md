@@ -18,6 +18,14 @@ Stores for 2D art assets.
 
 - https://craftpix.net/
 
+## 🎨 3D Model
+
+- https://sketchfab.com/
+- https://www.models-resource.com/
+- https://p3dm.ru/
+- https://free3d.com/
+- https://www.cgtrader.com/free-3d-models
+
 ## 🏃 3D Animation
 
 - https://www.mixamo.com/#/
