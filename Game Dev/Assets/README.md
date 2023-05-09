@@ -18,7 +18,7 @@ Stores for 2D art assets.
 
 - https://craftpix.net/
 
-## 🎨 3D Model
+## 🛖 3D Model
 
 - https://sketchfab.com/
 - https://www.models-resource.com/
