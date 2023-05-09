@@ -25,6 +25,7 @@ List of particle effect to make your games stands out!
 
 - [Cartoon Wind Effect](https://www.youtube.com/watch?v=Jj8UHGe5Aps&ab_channel=Hennejoe)
 - [Godray](https://www.youtube.com/watch?v=kbsd6askiCY&ab_channel=SpeedTutor) (URP)
+- [Falling Leaves](https://www.youtube.com/watch?v=wQJ0_TqoLr4&ab_channel=LMHPOLY)
 
 ## Font
 
