@@ -10,7 +10,6 @@ These stores sell all kind of assets.
 - https://syntystore.com/
 - https://www.gamedevmarket.net/
 - https://devassets.com/
-- https://itch.io/
 
 ## 🎨 2D
 
