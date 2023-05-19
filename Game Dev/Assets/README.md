@@ -28,6 +28,7 @@ Stores for 2D art assets.
 - https://free3d.com/
 - https://www.cgtrader.com/free-3d-models
 - https://craftpix.net/
+- https://incompetech.com/
 
 ## 🏃 3D Animation
 
