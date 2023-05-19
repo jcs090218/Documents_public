@@ -27,6 +27,7 @@ Stores for 2D art assets.
 - https://p3dm.ru/
 - https://free3d.com/
 - https://www.cgtrader.com/free-3d-models
+- https://craftpix.net/
 
 ## 🏃 3D Animation
 
