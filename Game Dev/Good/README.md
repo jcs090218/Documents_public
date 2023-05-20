@@ -6,3 +6,5 @@
 搞清楚你的終端用戶, 搞懂你要的用戶體驗!
 
 - [The Four Types of Video Game Designers](https://www.youtube.com/watch?v=suhANDk1h40&ab_channel=ExtraHistory)
+- [Interviewing For Game Design](https://www.youtube.com/watch?v=uUQKbowVsIE&ab_channel=GDC)
+- 
