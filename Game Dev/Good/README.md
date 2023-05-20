@@ -7,4 +7,3 @@
 
 - [The Four Types of Video Game Designers](https://www.youtube.com/watch?v=suhANDk1h40&ab_channel=ExtraHistory)
 - [Interviewing For Game Design](https://www.youtube.com/watch?v=uUQKbowVsIE&ab_channel=GDC)
-- 
