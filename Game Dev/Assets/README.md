@@ -17,6 +17,7 @@ These stores sell all kind of assets.
 Stores for 2D art assets.
 
 - https://craftpix.net/
+- https://www.vectorstock.com/
 
 ## 🛖 3D Model
 
