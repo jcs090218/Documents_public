@@ -9,4 +9,3 @@ The following YouTube video has the solution!
 #### 💫 UI ontop of everything (world space)
 
 - [Unity: Canvas World Space on Top of Everything (UI Camera)](https://www.youtube.com/watch?v=uGJ1L0xnEb4&ab_channel=Fix)
-- 
