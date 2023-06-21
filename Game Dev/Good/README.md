@@ -8,6 +8,6 @@
 - [The Four Types of Video Game Designers](https://www.youtube.com/watch?v=suhANDk1h40&ab_channel=ExtraHistory)
 - [Interviewing For Game Design](https://www.youtube.com/watch?v=uUQKbowVsIE&ab_channel=GDC)
 
-## AI
+## 🤖 AI
 
 - [What Makes Good AI?](https://www.youtube.com/watch?v=9bbhJi0NBkk&ab_channel=GameMaker%27sToolkit)
