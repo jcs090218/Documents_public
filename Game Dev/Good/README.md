@@ -17,3 +17,4 @@
   - [06:47](https://www.youtube.com/watch?v=9bbhJi0NBkk&t=407s) - Good AI can Interact with the Game's Systems
   - [07:55](https://www.youtube.com/watch?v=9bbhJi0NBkk&t=475s) - Good AI Reacts to the Player
   - [10:33](https://www.youtube.com/watch?v=9bbhJi0NBkk&t=633s) - Good AI has its own Goals
+  - [11:45](https://www.youtube.com/watch?v=9bbhJi0NBkk&t=705s) - Good AI isn't Just About Enemies
