@@ -15,4 +15,5 @@
   - [03:21](https://www.youtube.com/watch?v=9bbhJi0NBkk&t=201s) - Good AI Tells you what its Thinking
   - [04:49](https://www.youtube.com/watch?v=9bbhJi0NBkk&t=289s) - Good AI is Predictable
   - [06:47](https://www.youtube.com/watch?v=9bbhJi0NBkk&t=407s) - Good AI can Interact with the Game's Systems
-  - 
+  - [07:55](https://www.youtube.com/watch?v=9bbhJi0NBkk&t=475s) - Good AI Reacts to the Player
+  - [10:33](https://www.youtube.com/watch?v=9bbhJi0NBkk&t=633s) - Good AI has its own Goals
