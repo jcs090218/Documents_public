@@ -12,4 +12,5 @@
 
 - [What Makes Good AI?](https://www.youtube.com/watch?v=9bbhJi0NBkk&ab_channel=GameMaker%27sToolkit)
   - [02:27](https://www.youtube.com/watch?v=9bbhJi0NBkk&t=147s) - Good AI Lets the Player Cheat
+  - [04:49](https://www.youtube.com/watch?v=9bbhJi0NBkk&t=289s) - Good AI is Predictable
   - 
