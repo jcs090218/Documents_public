@@ -2,7 +2,7 @@
 
 List of stores where you can buy art assets.
 
-## 🏪 Overal
+## 🏪 Overall
 
 These stores sell all kind of assets.
 
