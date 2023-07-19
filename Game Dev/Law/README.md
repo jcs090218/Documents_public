@@ -14,7 +14,7 @@ A trademark is a distinguishable and recognizable sign, design, or expression th
 
 保護素材之用. 目前美國政府是不保證 AI 製作的素材. 
 
-#### ©️ Copyright vs Copyleft
+#### Copyright vs Copyleft
 
 Copyright is the right that enable you to prevent unauthorized copying or selling of your work. Whereas Copyleft is a method using which you can modify the software or documentation and distribute it back to the open-source community.
 
