@@ -18,7 +18,7 @@ A trademark is a distinguishable and recognizable sign, design, or expression th
 
 Copyright is the right that enable you to prevent unauthorized copying or selling of your work. Whereas Copyleft is a method using which you can modify the software or documentation and distribute it back to the open-source community.
 
-### Term of Service (TOS)
+### ©️ Term of Service (TOS)
 
 服務條款, 協助說明使用或服務項目.
 
