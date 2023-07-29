@@ -44,3 +44,4 @@ Stores specific to music and SFX.
 - https://www.zapsplat.com/
 - https://sonniss.com/category/sound-libraries/bundles
 - https://100audio.com/sound/
+- [甘茶の音楽工房](https://amachamusic.chagasi.com/index.html)
