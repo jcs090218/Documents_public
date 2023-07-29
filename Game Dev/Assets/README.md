@@ -11,6 +11,7 @@ These stores sell all kind of assets.
 - https://www.gamedevmarket.net/
 - https://devassets.com/
 - https://itch.io/
+- https://opengameart.org/
 
 ## 🎨 2D
 
