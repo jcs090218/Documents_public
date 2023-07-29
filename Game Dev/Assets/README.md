@@ -45,4 +45,4 @@ Stores specific to music and SFX.
 - https://sonniss.com/category/sound-libraries/bundles
 - https://100audio.com/sound/
 - [甘茶の音楽工房](https://amachamusic.chagasi.com/index.html)
-- https://kenkenbgm.blogspot.com/search/label/BGM
+- [https://kenkenbgm.blogspot.com/search/label/BGM](https://kenkenbgm.blogspot.com/)https://kenkenbgm.blogspot.com/
