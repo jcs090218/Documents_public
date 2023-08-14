@@ -30,4 +30,5 @@ List of particle effect to make your games stands out!
 ## Font
 
 - [Dynamic fonts assets](https://forum.unity.com/threads/localization-all-letters-appear-as-empty-squares-even-with-downloaded-font.1168838/) including fallback!
+- [How To Add Support For Multiple Languages In Unity](https://www.youtube.com/watch?v=lku7f4KNFEo&t=533s&ab_channel=DapperDino)
 - [fontspace.com](https://www.fontspace.com/commercial-fonts)
