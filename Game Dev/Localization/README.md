@@ -1,5 +1,7 @@
 # Localization
 
+List of useful localization links!
+
 ## 🔰 Dynamic Font
 
 - [Dynamic fonts assets](https://forum.unity.com/threads/localization-all-letters-appear-as-empty-squares-even-with-downloaded-font.1168838/) including fallback!
