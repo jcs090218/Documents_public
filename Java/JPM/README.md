@@ -9,5 +9,5 @@ Some notes.
 
 ## 🔗 Package Repositories
 
-- [Maven Central Repository](https://www.sonatype.com/)
+- [Maven Central Repository](https://central.sonatype.com/?smo=true)
 - [Grandle Central Plugins](https://plugins.gradle.org/)
