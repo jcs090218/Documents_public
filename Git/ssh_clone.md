@@ -2,7 +2,7 @@
 
 這裡記錄下使用 SSH, Git `clone` 的一些常用錯誤!
 
-## 錯誤: Permission denied (publickey)
+## ❓ 錯誤: Permission denied (publickey)
 
 表示 SSH 沒有授權到:
 
@@ -21,7 +21,7 @@ $ ssh-add /path/to/your/ssh/key
 
 原網址: https://blog.csdn.net/qq_37866436/article/details/109456501
 
-## 錯誤: Bad file descriptor
+## ❓ 錯誤: Bad file descriptor
 
 表示 ssh 無法讀入你的金鑰. 看看你的 `~/.gitconfig` 是否有指定 `ssh` 的軟體.
 
