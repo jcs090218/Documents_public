@@ -2,7 +2,7 @@
 
 紀錄一些常見的文檔專有名詞.
 
-## POSIX character classes
+## ✒️ POSIX character classes
 
 - `[:alnum:]`
 - `[:alpha:]`
