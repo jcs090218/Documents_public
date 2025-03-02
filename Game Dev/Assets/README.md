@@ -25,6 +25,7 @@ Stores for 2D art assets.
 - https://unityassets4free.com/
 - https://www.supergameasset.com/
 - https://sketchfab.com/
+  - https://www.fab.com/ (replaced `sketchfab`)
 - https://www.models-resource.com/
 - https://p3dm.ru/
 - https://free3d.com/
