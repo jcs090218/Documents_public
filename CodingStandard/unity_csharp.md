@@ -24,7 +24,6 @@ GameObject.cs
 gameObject.cs
 ```
 
-
 ## 🔍 註解 (Commenting)
 
 - `函式`和`變數`就使用Visual Studio IDE自帶的, 其他隨意.
