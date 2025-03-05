@@ -72,7 +72,7 @@ public static int VAR1_NAME;
 
 ### 公用變數 Public
 
-使用第一個字一律小寫的`lower camel case`.
+使用第一個字一律小寫的 `lower camel case`.
 
 ✔️ Good
 
@@ -94,7 +94,7 @@ public int _var1;  // Very Bad!
 ✔️ Good
 
 ```cs
-private int _var1;
+private int m_var1;
 ```
 
 ❌ Bad
