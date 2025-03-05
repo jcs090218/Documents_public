@@ -12,7 +12,7 @@
 
 ## 文件命名 (File Naming)
 
-一律使用`upper camel case`.
+一律使用 `upper camel case`.
 
 
 ✔️ Good
@@ -63,7 +63,8 @@ public int var1;  // 前面最少兩格空格!
 
 一律大寫,空格使用底線.
 
-:heavy_check_mark: Good
+✔️ Good
+
 ```cs
 public static int VAR1_NAME;
 ```
@@ -107,11 +108,11 @@ private int _Var1;  // Very Bad!
 
 ### 繼承變數 Protected
 
-* 跟Private一樣.
+- 跟 Private 一樣.
 
 ### Enum
 
-* 全部大寫和底線.
+- 全部大寫和底線.
 
 ✔️ Good
 
