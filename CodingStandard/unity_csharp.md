@@ -1,19 +1,16 @@
 # Unity CSharp
 
-* 創檔者: Shen, Jen-Chieh
-* 註解: 這裡寫著Unity C#的一些程式規範.
+- 創檔者: Shen, Jen-Chieh
+- 註解: 這裡寫著Unity C#的一些程式規範.
 
-
-## 檔案相關 (File Related)
+## 🔍 檔案相關 (File Related)
 
 * Tab or Space: `SPC`
 * Tab Width: `4`
 
-
-## 文件命名 (File Naming)
+## 🔍 文件命名 (File Naming)
 
 一律使用 `upper camel case`.
-
 
 ✔️ Good
 
@@ -28,7 +25,7 @@ gameObject.cs
 ```
 
 
-## 註解 (Commenting)
+## 🔍 註解 (Commenting)
 
 - `函式`和`變數`就使用Visual Studio IDE自帶的, 其他隨意.
 - 註解前面有`代碼`的話最少一定要兩格`空格`!
@@ -57,7 +54,7 @@ or
 public int var1;  // 前面最少兩格空格!
 ```
 
-## 變數命名 (Variable Naming)
+## 🔍 變數命名 (Variable Naming)
 
 ### 全域變數 Static
 
@@ -133,7 +130,7 @@ enum KeyCode {
 ```
 
 
-## 函式 (Function)
+## 🔍 函式 (Function)
 
 ### 命名 (Naming)
 
@@ -151,7 +148,7 @@ public void Add() { }
 public void add() { }
 ```
 
-## 括號 (Curly Bracket)
+## 🔍 括號 (Curly Bracket)
 
 一律在下一行.
 
@@ -169,7 +166,7 @@ public void Add() {
 }
 ```
 
-## 類別 (Class, Enum, Struct)
+## 🔍 類別 (Class, Enum, Struct)
 
 命名一律`upper camel case`.
 
