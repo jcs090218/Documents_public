@@ -65,7 +65,7 @@ public int var1;  // 前面最少兩格空格!
 public static int VAR1_NAME;
 ```
 
-*P.S. 唯一一個不是全部大寫的就是使用獨體模式(Singleton Pattern)的`instance`.*
+*P.S. 唯一一個不是全部大寫的就是使用獨體模式 (Singleton Pattern) 的 `instance`.*
 
 ### 公用變數 Public
 
@@ -86,7 +86,7 @@ public int _var1;  // Very Bad!
 
 ### 私有變數 Private
 
-前面一律加`_`底線,之後接著`lower camel case`.
+前面一律加 `_` 底線,之後接著 `lower camel case`.
 
 ✔️ Good
 
