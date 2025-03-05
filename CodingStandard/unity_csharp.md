@@ -15,12 +15,14 @@
 一律使用`upper camel case`.
 
 
-:heavy_check_mark: Good
+✔️ Good
+
 ```cs
 GameObject.cs
 ```
 
-:x: Bad
+❌ Bad
+
 ```cs
 gameObject.cs
 ```
@@ -28,8 +30,8 @@ gameObject.cs
 
 ## 註解 (Commenting)
 
-* `函式`和`變數`就使用Visual Studio IDE自帶的, 其他隨意.
-* 註解前面有`代碼`的話最少一定要兩格`空格`!
+- `函式`和`變數`就使用Visual Studio IDE自帶的, 其他隨意.
+- 註解前面有`代碼`的話最少一定要兩格`空格`!
 
 ### 函式
 
@@ -48,11 +50,12 @@ public void Add() { }
 ///</summary>
 public int var1;
 ```
+
 or
+
 ```cs
 public int var1;  // 前面最少兩格空格!
 ```
-
 
 ## 變數命名 (Variable Naming)
 
@@ -71,12 +74,14 @@ public static int VAR1_NAME;
 
 使用第一個字一律小寫的`lower camel case`.
 
-:heavy_check_mark: Good
+✔️ Good
+
 ```cs
 public int var1;
 ```
 
-:x: Bad
+❌ Bad
+
 ```cs
 public int Var1;   // Bad!
 public int _var1;  // Very Bad!
@@ -86,12 +91,14 @@ public int _var1;  // Very Bad!
 
 前面一律加`_`底線,之後接著`lower camel case`.
 
-:heavy_check_mark: Good
+✔️ Good
+
 ```cs
 private int _var1;
 ```
 
-:x: Bad
+❌ Bad
+
 ```cs
 private int var1;   // Bad!
 private int Var1;   // Bad!
@@ -106,19 +113,21 @@ private int _Var1;  // Very Bad!
 
 * 全部大寫和底線.
 
-:heavy_check_mark: Good
-```ts
+✔️ Good
+
+```cs
 enum KeyCode {
-KEY_BACKSPACE,
-KEY_TAB
+    KEY_BACKSPACE,
+    KEY_TAB
 }
 ```
 
-:x: Bad
-```ts
+❌ Bad
+
+```cs
 enum KeyCode {
-key_backspace,
-key_tab
+    key_backspace,
+    key_tab
 }
 ```
 
@@ -129,47 +138,50 @@ key_tab
 
 一律使用[upper camel case](https://zh.wikipedia.org/wiki/%E9%A7%9D%E5%B3%B0%E5%BC%8F%E5%A4%A7%E5%B0%8F%E5%AF%AB).
 
-:heavy_check_mark: Good
+✔️ Good
+
 ```cs
 public void Add() { }
 ```
 
-:x: Bad
+❌ Bad
+
 ```cs
 public void add() { }
 ```
-
 
 ## 括號 (Curly Bracket)
 
 一律在下一行.
 
-:heavy_check_mark: Good
+✔️ Good
+
 ```cs
 public void Add()
 { }
 ```
 
-:x: Bad
+❌ Bad
+
 ```cs
 public void Add() {
 }
 ```
 
-
 ## 類別 (Class, Enum, Struct)
 
 命名一律`upper camel case`.
 
+✔️ Good
 
-:heavy_check_mark: Good
 ```cs
 enum EnumA { }
 class ClassA { }
 struct StructA { }
 ```
 
-:x: Bad
+❌ Bad
+
 ```cs
 enum enumA { }
 class classA { }
