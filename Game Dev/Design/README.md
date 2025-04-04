@@ -8,7 +8,7 @@
 - [The Four Types of Video Game Designers](https://www.youtube.com/watch?v=suhANDk1h40&ab_channel=ExtraHistory)
 - [Interviewing For Game Design](https://www.youtube.com/watch?v=uUQKbowVsIE&ab_channel=GDC)
 
-## Document itself
+## 📃 Document itself
 
 - [GDC Vault - One-Page Designs by Stone Librande](https://gdcvault.com/play/1012356/One-Page)
 - [Design Land: Creating Great Design Docs - Extra Credits Video Games](https://www.youtube.com/watch?v=ZE8v7uVGepM&ab_channel=ExtraCredits)
