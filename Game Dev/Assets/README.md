@@ -54,3 +54,6 @@ Stores specific to music and SFX.
 ## 📝 Font
 
 - [Google Font](https://fonts.google.com/)
+- https://www.fontspace.com/
+- https://www.dafont.com/
+- https://font-collector.com/
