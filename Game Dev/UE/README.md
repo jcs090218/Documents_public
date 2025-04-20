@@ -2,4 +2,6 @@
 
 紀錄一些不錯用的資源.
 
-- https://github.com/marcohenning/ue5-cheatsheet?tab=readme-ov-file
+- https://github.com/marcohenning/ue5-cheatsheet
+- https://github.com/Allar/ue5-style-guide
+- https://github.com/Flakky/ue-blueprints-styleguide
