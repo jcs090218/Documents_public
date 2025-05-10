@@ -58,3 +58,4 @@ Stores specific to music and SFX.
 - [FontSpace](https://www.fontspace.com/)
 - https://www.dafont.com/
 - https://font-collector.com/
+- https://github.com/wordshub/free-font
