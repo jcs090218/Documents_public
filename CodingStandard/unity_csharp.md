@@ -184,3 +184,25 @@ enum enumA { }
 class classA { }
 struct structA { }
 ```
+
+## 🔍 命名空間 (Namespace)
+
+排序從**內建**到**外建**.
+
+✔️ Good
+
+```cs
+using System;
+using System.Collections.Generic;
+using UnityEngine;
+using MyBox;  // 外部命名 (External)
+```
+
+❌ Bad
+
+```cs
+using MyBox;  // 外部命名 (External)
+using System;
+using UnityEngine;
+using System.Collections.Generic;
+```
