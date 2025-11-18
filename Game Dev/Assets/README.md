@@ -59,3 +59,4 @@ Stores specific to music and SFX.
 - https://www.dafont.com/
 - https://font-collector.com/
 - https://github.com/wordshub/free-font
+- https://openfontlicense.org/
