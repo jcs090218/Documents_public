@@ -13,6 +13,10 @@
 - [GDC Vault - One-Page Designs by Stone Librande](https://gdcvault.com/play/1012356/One-Page)
 - [Design Land: Creating Great Design Docs - Extra Credits Video Games](https://www.youtube.com/watch?v=ZE8v7uVGepM&ab_channel=ExtraCredits)
 
+## Level Designs
+
+- [5 Tips for Great Level Design](https://www.youtube.com/watch?v=LBtucVc8l0M&t=24s)
+
 ## 🤖 AI
 
 - [What Makes Good AI?](https://www.youtube.com/watch?v=9bbhJi0NBkk&ab_channel=GameMaker%27sToolkit)
