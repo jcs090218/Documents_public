@@ -13,6 +13,11 @@
 - [GDC Vault - One-Page Designs by Stone Librande](https://gdcvault.com/play/1012356/One-Page)
 - [Design Land: Creating Great Design Docs - Extra Credits Video Games](https://www.youtube.com/watch?v=ZE8v7uVGepM&ab_channel=ExtraCredits)
 
+## 🕹️ Game Design
+
+- [How To Think Like A Game Designer](https://www.youtube.com/watch?v=iIOIT3dCy5w&t=309s)
+  - [MDA (Mechanics, Dynamics, Aesthetics)](https://en.wikipedia.org/wiki/MDA_framework)
+
 ## 🗺️ Level Designs
 
 - [5 Tips for Great Level Design](https://www.youtube.com/watch?v=LBtucVc8l0M&t=24s)
